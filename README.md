@@ -29,11 +29,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="40" alt="matplotlib logo" />
   <img width="12" />
-  <img src="https://nbviewer.jupyter.org/gist/Carreau/7ad674d27698ad11bd4a4398b14481bf" height="40" alt="seaborn logo" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo" />
-  <img width="12" />
-  <img src="https://github.com/devicons/devicon/tree/v2.17.0/icons/scikit-learn/scikit-learn-original.svg" height="40" alt="scikit-learn logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo" />
 </div>
