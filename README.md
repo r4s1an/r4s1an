@@ -1,35 +1,59 @@
-###
+<h1 align="center">Hi, I'm Ruslan Hasanov 👋</h1>
+<h3 align="center">AI Engineer & Data Scientist</h3>
 
-<h1 align="center">👋Hey, I am Ruslan Hasanov!</h1>
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">Hello! I'm Ruslan Hasanov, a passionate student with a background in Chemical Engineering and Materials Engineering. With experience in chemical plants and a keen interest in energy technologies, I'm excited to combine my knowledge of engineering with data science to explore innovative solutions in the field.<br><br>Education<br><br>Bachelor's Degree: Chemical Engineering, Baku Higher Oil School<br>Master's Degree: Materials Engineering with a minor in Data Analytics, University of Turku<br><br>Interests<br><br>Materials for Energy Technologies (e.g., solar panels, batteries)<br>Data Science in Chemical Engineering Processes and Energy<br>Sustainable Energy Processes and Applications<br><br>Contact<br><br>I'm always open to collaboration and discussion. If you're interested in connecting or have any questions, feel free to reach out via email or connect with me on LinkedIn.<br><br>Thank you for visiting my repository! I look forward to sharing and learning together.</p>
+<p align="center">
+  <a href="https://linkedin.com/in/r4s1an"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:ruslanhesenov510@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/Baku,_Azerbaijan-black?style=flat&logo=googlemaps&logoColor=white" />
+</p>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+- 🔭 Building production AI systems — LLM pipelines, RAG, computer vision, and OCR — that turn unstructured data into business-ready output
+- 🐍 Currently: **Python Backend Developer @ EPAM**, shipping FastAPI services on Kubernetes/MongoDB and an end-to-end LLM analysis pipeline on EPAM DIAL
+- ⚡ Recent build: a multi-modal document AI system (YOLO + PaddleOCR + Gemini Vision) turning drilling report PDFs into queryable SQL data with a TAG-style chatbot
+- 🧪 Started in chemical & materials engineering, pivoted hard into AI/ML — still shows up in how I approach messy real-world data
+- 📫 Reach me: **ruslanhesenov510@gmail.com** · [LinkedIn](https://linkedin.com/in/r4s1an)
+
+###
+
+<h3 align="left">🛠 Language and Tools</h3>
 
 ###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="40" alt="matplotlib logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
+</div>
+
+###
+
+<h3 align="left">📊 GitHub Stats</h3>
+
+###
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=r4s1an&show_icons=true&theme=default&hide_border=true" height="165" alt="github stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=r4s1an&layout=compact&hide_border=true" height="165" alt="top languages" />
+</div>
+
+<div align="left">
+  <img src="https://streak-stats.demolab.com/?user=r4s1an&hide_border=true" alt="github streak" />
 </div>
