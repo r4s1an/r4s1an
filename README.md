@@ -43,17 +43,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
 </div>
 
-###
-
-<h3 align="left">📊 GitHub Stats</h3>
-
-###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=r4s1an&show_icons=true&theme=default&hide_border=true" height="165" alt="github stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=r4s1an&layout=compact&hide_border=true" height="165" alt="top languages" />
-</div>
-
-<div align="left">
-  <img src="https://streak-stats.demolab.com/?user=r4s1an&hide_border=true" alt="github streak" />
-</div>
