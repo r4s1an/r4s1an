@@ -43,3 +43,18 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
 </div>
 
+###
+
+<h3 align="left">📜 Certifications</h3>
+
+###
+
+- Building with the Claude API — prompt evaluation, RAG systems, agentic workflows (parallelization, chaining, routing)
+- Foundation: Introduction to LangGraph — agentic & multi-agent applications
+- Getting Started with Kubernetes — clusters, microservices, security
+- Docker Foundations Professional Certificate
+- AWS Knowledge: Serverless — Training Badge
+- Computer Vision Bootcamp, Turkish AI Community — detection algorithms, YOLO
+- Databases for Developers, Oracle — SQL, relational design
+
+###
